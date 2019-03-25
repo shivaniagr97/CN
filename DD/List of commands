@@ -1,0 +1,2 @@
+ls -l /dev | head  :ram file system devices
+

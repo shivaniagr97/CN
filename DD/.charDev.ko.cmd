@@ -1,0 +1,1 @@
+cmd_/home/shivani/CN/DD/charDev.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/shivani/CN/DD/charDev.ko /home/shivani/CN/DD/charDev.o /home/shivani/CN/DD/charDev.mod.o ;  true
